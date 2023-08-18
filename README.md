@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align='center'><h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Hello World!</h1></div>
-  <a href="https://leetcode.com/wewakekumar target="_blank" rel="nofollow"><img align="right" alt="wewakekumar" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" /></a>
+  <a href="https://leetcode.com/wewakekumar" target="_blank" rel="nofollow"><img align="right" alt="wewakekumar" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" /></a>
 <a href="https://linkedin.com/in/wewakekumar" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wewakekumar" width="22px" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wewakekumar&label=Profile%20views&color=0e75b6&style=flat" alt="wewakekumar" /> </p>
